@@ -1,0 +1,25 @@
+body
+{
+	margin:0px auto;
+	font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size:14px;
+	line-height:1.42857143;
+	background-color: #444242;
+
+}
+.outer
+{
+	background-color:#cfd8dc;
+	width:100%;
+	margin-top:50px;
+}
+.inner
+{
+	width:95%;
+	margin:0px auto;
+	height:570px;
+}
+.top h1
+{
+	padding-top:40px;
+}
